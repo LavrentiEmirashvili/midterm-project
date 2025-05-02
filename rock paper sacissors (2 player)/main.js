@@ -50,4 +50,5 @@ function playGame() {
     alert(`Final score: Player 1 - ${player1Wins}, Player 2 - ${player2Wins}`);
   }
 }
+
 playGame();
